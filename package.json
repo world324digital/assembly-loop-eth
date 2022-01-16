@@ -1,0 +1,28 @@
+{
+  "name": "assembly-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereumgb/assembly-loop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethereumgb/assembly-loop/issues"
+  },
+  "homepage": "https://github.com/ethereumgb/assembly-loop#readme",
+  "devDependencies": {
+    "bn.js": "^5.1.1",
+    "chai": "^4.2.0",
+    "chai-bn": "^0.2.0",
+    "truffle": "^5.1.11",
+    "@openzeppelin/test-helpers": "^0.5.4"
+  },
+  "dependencies": {}
+}
